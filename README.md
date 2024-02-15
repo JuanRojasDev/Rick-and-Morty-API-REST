@@ -1,4 +1,4 @@
-# Ricky-Morti ApiRest
+# Rick And Morty ApiRest
 Repositorio creado para Github y Git
 
 ## Descripción
