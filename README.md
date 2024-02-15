@@ -1,4 +1,4 @@
-# Ricky-Morti AppiRest
+# Ricky-Morti ApiRest
 Repositorio creado para Github y Git
 
 ## Descripción
